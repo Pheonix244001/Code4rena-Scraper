@@ -1,1 +1,2 @@
-A scraper in python to scrape all audit reports of code4rena 
+Bash script to get code4rena reports through github
+python script to sort all of them 
